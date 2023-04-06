@@ -1,0 +1,72 @@
+a:9:{s:15:"backgroundimage";s:0:"";s:10:"brandcolor";s:7:"#0b1930";s:20:"loginbackgroundimage";s:57:"/330308798_2791396344328414_6112189601809098841_n (1).jpg";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:335:"#page-footer .footer-content-popover.container
+{
+display: flex !important;
+background-color: #0b1a32;
+font-size : small;
+font-color:#ffffff;
+}
+
+#icon fa fa-question fa-fw{
+  display : none;
+} 
+
+#page-footer .footer-section
+{
+width:200%
+}
+
+#page-footer {
+   color: #ffffff;
+}
+
+#page-footer a {
+  color: #ffffff;
+}";s:7:"scsspre";s:709:"$course-content-maxwidth: 1200px;
+$h5p-content-maxwidth: 1200px; 
+
+nav.navbar {
+background-color: #0b1a32 !important;
+}
+
+.navbar-nav > li > a {
+  color: #ffffff !important;
+}
+
+
+.dropdown-toggle::after {
+  color: #ffffff !important;
+}
+
+
+.navbar-nav > li > a:hover {
+  color: #0b1a32 !important;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+
+.navbar-nav .icon {
+  color: #ffffff !important;
+}
+
+.editmode-switch-form label {
+  color: #ffffff !important;
+}
+
+.progresslabel {
+  color: #ffffff !important;
+}
+
+.nav-link active{
+  color: #ffffff !important;
+}
+
+.footer-button button[aria-label="Help"] {
+    display: none;
+}
+
+.element.style {
+    display: none;
+}";s:15:"unaddableblocks";s:45:"navigation,settings,course_list,section_links";s:7:"version";s:10:"2022112800";}

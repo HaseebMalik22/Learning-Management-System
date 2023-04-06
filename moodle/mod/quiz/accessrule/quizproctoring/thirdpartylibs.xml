@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>libraries/aws/Aws/</location>
+        <name>AWS</name>
+        <version>2.0</version>
+        <license>Apache</license>
+        <licenseversion></licenseversion>
+    </library>
+
+    <library>
+        <location>libraries/aws/GuzzleHttp/</location>
+        <name>Guzzle</name>
+        <version>6.5.5</version>
+        <license>MIT</license>
+        <licenseversion></licenseversion>
+    </library>
+
+    <library>
+        <location>libraries/aws/JmesPath/</location>
+        <name>jmespath</name>
+        <version>6.5.5</version>
+        <license>MIT</license>
+        <licenseversion></licenseversion>
+    </library>
+
+    <library>
+        <location>libraries/aws/Symfony/Polyfill/Intl/Idn</location>
+        <name>polyfill-intl-idn</name>
+        <version>1.13.0</version>
+        <license>MIT</license>
+        <licenseversion></licenseversion>
+    </library>
+
+    <library>
+        <location>libraries/aws/Psr/Http/Message/</location>
+        <name>psr-http-message</name>
+        <version>1.0.1</version>
+        <license>MIT</license>
+        <licenseversion></licenseversion>
+    </library>
+
+    <library>
+        <location>libraries/aws/aws-autoloader.php</location>
+        <name>aws-autoloader</name>
+        <version>1.0.1</version>
+        <license>MIT</license>
+        <licenseversion></licenseversion>
+    </library>
+</libraries>
